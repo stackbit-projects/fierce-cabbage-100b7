@@ -1,0 +1,43 @@
+logo: null
+title: Bef - Enjoy Freedom
+description: >
+  Write an awesome description for your new site here. You can edit this line in
+  _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: ''
+url: ''
+video: mountains.mp4
+banner-title: null
+banner-desc: null
+author-pic: face.jpg
+author-name: null
+about-author: null
+email: your-email@domain.com
+phone: (496)-169-6557
+website: 'https://dwayne.example.com'
+google_url: null
+twitter_url: null
+instagram_url: null
+pinterest_url: null
+dribbble_url: null
+facebook_url: null
+discus_identifier: mr-brown
+mailchimp: null
+analytics: null
+paginate: 12
+paginate_path: '/page:num/'
+markdown: kramdown
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-sitemap
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+include:
+  - _pages
+exclude:
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - yarn.lock
